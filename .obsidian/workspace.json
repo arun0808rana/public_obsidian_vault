@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curriculum/Chapter - 3 API - axios.md",
+                "file": "Curriculum/Chapter - 7 Typescript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e94bc38fa5d2519f",
+            "id": "506ed03f9e03ec23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fast Delivery methods/RBAC.md",
+                "file": "Todos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fast Delivery methods/RBAC.md",
+                "file": "Todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fast Delivery methods/RBAC.md",
+                "file": "Todos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fast Delivery methods/RBAC.md"
+                "file": "Todos.md"
               }
             }
           }
@@ -159,13 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e94bc38fa5d2519f",
+  "active": "506ed03f9e03ec23",
   "lastOpenFiles": [
-    "Fast Delivery methods/Generic processes.md",
-    "Fast Delivery methods/Typescript runtime error handling.md",
-    "Fast Delivery methods/RBAC.md",
     "Curriculum/Chapter - 7 Typescript.md",
-    "Fast Delivery methods",
+    "Todos.md",
+    "Helpers and chores/Database schema chores.md",
+    "Helpers and chores/RBAC.md",
+    "Curriculum/Chapter - 3 API - axios.md",
+    "Helpers and chores/Generic processes.md",
+    "Helpers and chores/Typescript runtime error handling.md",
+    "Helpers and chores",
     "assets/Pasted image 20240724001137.png",
     "assets",
     "Pasted image 20240724001113.png",
@@ -173,7 +176,6 @@
     "Curriculum/Chapter - 5 Importing SQL dump.md",
     "Curriculum/Chapter - 1 ENV.md",
     "Curriculum/Chapter - 4 Automatic refreshing token axios.md",
-    "Curriculum/Chapter - 3 API - axios.md",
     "Curriculum/Chapter - 2 Nodemon for backend.md",
     "Curriculum",
     "Welcome.md"

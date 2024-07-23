@@ -1,0 +1,5 @@
+- [ ] https://typicode.github.io/husky/how-to.html
+- [ ] https://dev.to/devland/set-up-a-nodejs-app-with-eslint-and-prettier-4i7p
+- [ ] https://medium.com/@apeview/setup-node-js-projects-with-typescript-eslint-and-prettier-4c1f1fecd107
+- [ ] https://medium.com/@apeview/setup-node-js-projects-with-typescript-eslint-and-prettier-4c1f1fecd107
+- [ ] lint commit messages using conventional commits https://medium.com/@sijokoothur/linting-git-commit-messages-using-husky-a-guide-to-cleaner-version-control-2ac37605433a

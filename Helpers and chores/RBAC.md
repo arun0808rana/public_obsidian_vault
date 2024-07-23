@@ -2,7 +2,12 @@
 `route.js` ->
 
 ```javacript
-app.get('/user', rbac({currentRoute: '/user', operationTypes: ['view', 'delete']}), route);
+app.get('/user',
+rbac({
+	currentRoute: '/user',
+	operationTypes: ['view', 'delete']
+}),
+route);
 ```
 
 `rbac.js` ->
@@ -71,3 +76,5 @@ async function getPersmissions() {
 }
 
 ```
+
+
